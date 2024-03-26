@@ -34,10 +34,6 @@ This landing page was built using the following technologies:
 - 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
 - 🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
 
-## About us
-
-We build free and premium themes with technologies such as Bootstrap, React, Tailwind, Vue, Laravel and more over at [Themesberg](https://themesberg.com).
-
 ## License
 
 This project is open source under the MIT license.
